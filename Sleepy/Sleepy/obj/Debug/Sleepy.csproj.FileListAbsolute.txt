@@ -1,0 +1,6 @@
+c:\users\216110108\documents\visual studio 2017\Projects\Sleepy\Sleepy\bin\Debug\Sleepy.exe.config
+c:\users\216110108\documents\visual studio 2017\Projects\Sleepy\Sleepy\bin\Debug\Sleepy.exe
+c:\users\216110108\documents\visual studio 2017\Projects\Sleepy\Sleepy\bin\Debug\Sleepy.pdb
+c:\users\216110108\documents\visual studio 2017\Projects\Sleepy\Sleepy\obj\Debug\Sleepy.csprojResolveAssemblyReference.cache
+c:\users\216110108\documents\visual studio 2017\Projects\Sleepy\Sleepy\obj\Debug\Sleepy.exe
+c:\users\216110108\documents\visual studio 2017\Projects\Sleepy\Sleepy\obj\Debug\Sleepy.pdb
