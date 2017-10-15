@@ -1,0 +1,10 @@
+c:\users\216110108\documents\visual studio 2017\Projects\HW2\HW2\bin\Debug\HW2.exe.config
+c:\users\216110108\documents\visual studio 2017\Projects\HW2\HW2\bin\Debug\HW2.exe
+c:\users\216110108\documents\visual studio 2017\Projects\HW2\HW2\bin\Debug\HW2.pdb
+c:\users\216110108\documents\visual studio 2017\Projects\HW2\HW2\obj\Debug\HW2.csprojResolveAssemblyReference.cache
+c:\users\216110108\documents\visual studio 2017\Projects\HW2\HW2\obj\Debug\HW2.Form1.resources
+c:\users\216110108\documents\visual studio 2017\Projects\HW2\HW2\obj\Debug\HW2.Properties.Resources.resources
+c:\users\216110108\documents\visual studio 2017\Projects\HW2\HW2\obj\Debug\HW2.csproj.GenerateResource.Cache
+c:\users\216110108\documents\visual studio 2017\Projects\HW2\HW2\obj\Debug\HW2.exe
+c:\users\216110108\documents\visual studio 2017\Projects\HW2\HW2\obj\Debug\HW2.pdb
+C:\Users\216110108\Documents\Visual Studio 2017\Projects\HW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
