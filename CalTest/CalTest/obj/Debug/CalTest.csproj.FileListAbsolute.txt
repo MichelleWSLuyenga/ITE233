@@ -1,0 +1,9 @@
+c:\users\216110108\documents\visual studio 2017\Projects\CalTest\CalTest\bin\Debug\CalTest.exe.config
+c:\users\216110108\documents\visual studio 2017\Projects\CalTest\CalTest\bin\Debug\CalTest.exe
+c:\users\216110108\documents\visual studio 2017\Projects\CalTest\CalTest\bin\Debug\CalTest.pdb
+c:\users\216110108\documents\visual studio 2017\Projects\CalTest\CalTest\obj\Debug\CalTest.csprojResolveAssemblyReference.cache
+c:\users\216110108\documents\visual studio 2017\Projects\CalTest\CalTest\obj\Debug\CalTest.Form1.resources
+c:\users\216110108\documents\visual studio 2017\Projects\CalTest\CalTest\obj\Debug\CalTest.Properties.Resources.resources
+c:\users\216110108\documents\visual studio 2017\Projects\CalTest\CalTest\obj\Debug\CalTest.csproj.GenerateResource.Cache
+c:\users\216110108\documents\visual studio 2017\Projects\CalTest\CalTest\obj\Debug\CalTest.exe
+c:\users\216110108\documents\visual studio 2017\Projects\CalTest\CalTest\obj\Debug\CalTest.pdb
